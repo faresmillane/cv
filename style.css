@@ -1,0 +1,114 @@
+body{ 
+	
+	margin : auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sons-serfi;
+	background-color: #FFFFF0
+}
+
+h1
+{
+
+	color: #3388BB;
+	
+}
+
+h2
+{
+	font-size: 1.4em;
+	color: #3388BB;
+	text-transform : uppercase;
+}
+
+h3
+{
+	font-size: 1.2em;
+	text-transform : uppercase;
+	
+}
+
+h4
+{
+	font-size: 1.2em;
+	text-transform : uppercase;
+	
+}
+
+table
+{
+	width : 780px
+	background-color: #E6E6FA
+	
+}
+
+tr
+{
+	background-color: #E6E6FA
+}
+td
+{
+	background-color: #E6E6FA
+	
+}
+
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 20px;
+}
+
+.genaral_info
+{
+	text-align: center;
+	line-height: 80%
+}
+
+#id
+{
+
+}
+
+.contenu_fomation
+{
+	text-align: justify;
+
+}
+
+
+#tete
+{
+	text-align: center;
+	line-height: 80%
+}
+
+#LANGUES
+{
+	font-size: 1.4em;
+	color: #3388BB;
+	text-transform : uppercase;
+	line-height: 10%
+}
+
+#COMPETENCES
+{
+	font-size: 1.4em;
+	color: #3388BB;
+	text-transform : uppercase;
+	line-height: 20%
+}
+
+#INTERET
+{
+	font-size: 1.4em;
+	color: #3388BB;
+	text-transform : uppercase;
+	line-height: 10%
+}
+
+#FORMATION
+{
+	line-height: 30%
+}
+
+
+
