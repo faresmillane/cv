@@ -3,7 +3,14 @@ body{
 	margin : auto;
 	font-size : 16px;
 	font-family : 'Source sans Pro', Calibri, Tahoma, sons-serfi;
-	background-color: #F0FFFF
+	background-color: #F0FFF0
+}
+
+footer
+{
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sons-serfi;
+	position: center;
 }
 
 h1
@@ -51,6 +58,19 @@ td
 	
 }
 
+#Ingénieur
+{
+	background-color: #E6E6FA
+
+}
+
+#recherche
+{
+	font-size: 1.2em;
+	line-height: 10%
+
+}
+
 .center {
     margin: auto;
     width: 80%;
@@ -95,6 +115,11 @@ td
 	color: #3388BB;
 	text-transform : uppercase;
 	line-height: 20%
+}
+
+#compétences
+{
+	
 }
 
 #INTERET
